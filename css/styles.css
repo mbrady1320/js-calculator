@@ -1,0 +1,51 @@
+
+#main {
+ background-image: url("../img/background.jpg"); 
+ padding-bottom: 44px;
+ margin: -8.25px;
+ text-align: center;
+}
+
+.header {
+  text-align: center;
+  padding-top: 27.58px;
+  padding-bottom: 25px;
+}
+
+p {
+  margin-top: -4.5px;
+}
+
+#answer-screen{
+  padding: 5%;
+}
+
+#container-calc {
+  max-width: 320px;
+  width: 60%;
+  border-style: solid;
+  margin-left: 38%;
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background: rgb(255, 215, 0);
+}
+
+#btn {
+  padding:20px;
+}
+
+#btnequal {
+  padding: 20px 32px 20px 32px; 
+}
+
+#btn:hover {
+  background-color: #CCCCFF;
+}
+
+h1 {
+   font-family: 'Ubuntu', sans-serif;
+}
+
+p {
+  font-family: 'Karla', serif;
+}
